@@ -15,7 +15,18 @@ Hi, sou Guilherme e entrei a pouco tempo na programação. Já comecei ter esse 
 
 
 
+<div align="left">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme_das_Chagas&include_all_commits=true&theme=radical"/>
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme_das_Chagas&layout=compact&theme=radical"/>
+</div>
 
+<div style="display: inline_block"><br>
+    <img align="center" alt="Nate-HTML" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img align="center" alt="Nate-CSS" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img align="center" alt="Nate-Js" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Nate-Java" height="45" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+</div>
 
 
 
