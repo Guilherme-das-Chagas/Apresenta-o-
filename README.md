@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Guilherme! 👋
+# Olá, eu sou o Guilherme! 👋
 
 
 ## 🚀 Sobre mim
